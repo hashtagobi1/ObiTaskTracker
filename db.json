@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Go Shop",
+      "day": "2021-04-14",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Record a new song",
+      "day": "2021-04-17",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Buy Jaffa Cakes",
+      "day": "2021-04-17",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
