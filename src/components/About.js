@@ -21,6 +21,7 @@ const About = () => {
             <br/>
 
             <h5>Created by Obinna</h5>
+            <h5> <a href="https://uk.linkedin.com/in/obinna-anokwuru-647231149">LinkedIn</a></h5>
 
             <Link to="/">Go Back</Link>
 
